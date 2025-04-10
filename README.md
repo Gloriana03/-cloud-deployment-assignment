@@ -59,7 +59,6 @@ This page is served by Apache on a Google Cloud virtual machine.
 Setup includes firewall rules, Apache2, and external IP access.
 
 
-IF THERE IS ANY TROUBLEPROBLEMS
 
 Problem	                      Solution
 
